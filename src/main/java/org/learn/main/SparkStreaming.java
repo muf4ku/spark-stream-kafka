@@ -1,4 +1,4 @@
-package org.ebdesk.main;
+package org.learn.main;
 
 import java.util.Arrays;
 import java.util.Collection;
